@@ -1,8 +1,8 @@
 {
   "name": "ruter-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
-  "repository": "git@github.com:kyrrelm/ruter-util.git",
+  "repository": "git@github.com:kyrrelm/react-yarn-webpack-production.git",
   "author": "Kyrre Laugerud Moe",
   "license": "MIT",
   "scripts": {
